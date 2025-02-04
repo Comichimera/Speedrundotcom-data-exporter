@@ -1,4 +1,4 @@
-# Speedrun.com Data Exporter Documentation
+# Speedrun.com Data Exporter
 
 ## Introduction
 ### What is the Speedrun.com Data Exporter
